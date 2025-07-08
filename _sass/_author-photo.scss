@@ -1,9 +1,9 @@
 .author__avatar {
   img {
     border-radius: 50%;
-    width: 180px;
-    height: 180px;  // To ensure the image is square
-    object-fit: cover;  // Maintain aspect ratio while filling the box
-    object-position: center 35%;
+    width: 180px !important;
+    height: 180px !important;  // To ensure the image is square
+    object-fit: cover !important;  // Maintain aspect ratio while filling the box
+    object-position: center 35% !important;
   }
 }
