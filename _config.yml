@@ -22,7 +22,7 @@ repository               : "Shuai-Zhang16/Shuai-Zhang16.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   name             : "Shuai Zhang"
   pronouns         : "he/him"
   bio              : "PhD Student in Electrical Engineering"
