@@ -4,6 +4,25 @@
     width: 180px !important;
     height: 180px !important;  // To ensure the image is square
     object-fit: cover !important;  // Maintain aspect ratio while filling the box
-    object-position: center 35% !important;
+    object-position: center 45% !important;
+    transition: width 0.3s ease, height 0.3s ease;
+  }
+
+  // Medium Devices (768px and below)
+  @media (max-width: 768px) {
+    width: 150px !important;
+    height: 150px !important;
+  }
+
+  // Mobile Devices (480px and below)
+  @media (max-width: 480px) {
+    width: 120px !important;
+    height: 120px !important;
+  }
+
+  // Small Mobile Devices (320px and below)
+  @media (max-width: 320px) {
+    width: 100px !important;
+    height: 100px !important;
   }
 }
