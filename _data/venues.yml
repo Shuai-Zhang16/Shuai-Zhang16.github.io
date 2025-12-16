@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"CPSIoTSec25":
+  url: https://dblp.org/db/conf/cpsiotsec/index.html
+  color: "#1E90FF"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"MCOMSTD":
+  url: https://dblp.org/db/journals/csm/index.html
+  color: "#1E90FF"
