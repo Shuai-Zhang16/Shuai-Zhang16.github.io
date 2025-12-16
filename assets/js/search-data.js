@@ -440,16 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-started-my-phd-journal-at-unsw-sydney-rocket",
+          title: 'I started my PhD journal at UNSW, Sydney! :rocket:',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-towards-behavior-grammar-driven-iot-network-traffic-generation-using-mud-specifications-are-accepted-by-acm-ccs-cpsiotsec-2025-tada",
+          title: 'Our paper, “Towards Behavior Grammar-Driven IoT Network Traffic Generation using MUD Specifications”, are...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
