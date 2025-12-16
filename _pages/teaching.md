@@ -1,12 +1,14 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Computer Networks
 
-Organize your courses by years, topics, or universities, however you like!
+- **Network Technologies** ([TELE3118](https://www.unsw.edu.au/course-outlines/course-outline#year=2025&term=Term%203&deliveryMode=In%20Person&deliveryFormat=Standard&teachingPeriod=T3&deliveryLocation=Kensington&courseCode=TELE3118&activityGroupId=1)): Lab Demonstrator, 2025
+
+
