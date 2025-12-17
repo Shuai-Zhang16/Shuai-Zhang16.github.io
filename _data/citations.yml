@@ -1,14 +1,11 @@
 metadata:
-  last_updated: '2025-12-16'
+  last_updated: '2025-12-17'
 papers:
-  nsiOBtoAAAAJ:3A9yKSN-GCB0IC:
+  nsiOBtoAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: Towards Behavior Grammar-Driven IoT Network Traffic Generation using MUD Specifications
-    year: 2025
-
-  nsiOBtoAAAAJ:3Ad1gkVwhDpl0C:
+    year: '2025'
+  nsiOBtoAAAAJ:d1gkVwhDpl0C:
     citations: 2
-    title: Systematic Verification of IoT Device Conformance to Ietf Manufacturer Usage Description Standard
-    year: 2025
-
-
+    title: Systematic verification of IoT device conformance to IETF manufacturer usage description standard
+    year: '2025'
