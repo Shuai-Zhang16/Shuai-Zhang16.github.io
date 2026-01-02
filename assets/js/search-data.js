@@ -59,11 +59,11 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-i-started-my-phd-journal-at-unsw-sydney-rocket",
-          title: 'I started my PhD journal at UNSW, Sydney! :rocket:',
+      },{id: "news-i-started-my-phd-journey-at-unsw-sydney-rocket",
+          title: 'I started my PhD journey at UNSW, Sydney! :rocket:',
           description: "",
-          section: "News",},{id: "news-our-paper-towards-behavior-grammar-driven-iot-network-traffic-generation-using-mud-specifications-are-accepted-by-acm-ccs-cpsiotsec-2025-tada",
-          title: 'Our paper, “Towards Behavior Grammar-Driven IoT Network Traffic Generation using MUD Specifications”, are...',
+          section: "News",},{id: "news-our-paper-towards-behavior-grammar-driven-iot-network-traffic-generation-using-mud-specifications-was-accepted-by-acm-ccs-cpsiotsec-2025-tada",
+          title: 'Our paper, “Towards Behavior Grammar-Driven IoT Network Traffic Generation using MUD Specifications”, was...',
           description: "",
           section: "News",},{
         id: 'social-cv',
