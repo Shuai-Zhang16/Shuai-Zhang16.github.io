@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my PhD journal at UNSW, Sydney! :rocket: 
+I started my PhD journey at UNSW, Sydney! :rocket: 

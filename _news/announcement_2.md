@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Our paper, "**Towards Behavior Grammar-Driven IoT Network Traffic Generation using MUD Specifications**", 
-are accepted by ACM CCS CPSIoTSec 2025! :tada:
+was accepted by ACM CCS CPSIoTSec 2025! :tada:

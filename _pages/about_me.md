@@ -9,7 +9,7 @@ profile:
   image: shuai_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>A 1st year PhD student,</p>
+    <p>PhD Candidate,</p>
     <p>School of EE&T,</p>
     <p>UNSW, Sydney, Australia</p>
 
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 1st year PhD student in the school of Electrical Engineering and Telecommunications at the University of New South Wales (UNSW), Sydney, Australia, 
-supervised by A/Prof. [Hassan Habibi Gharakheili](https://www2.ee.unsw.edu.au/~hhabibi/publications.html) and [Dr. Minzhao Lyu](https://minzhaolyu.github.io/). 
-I completed my Honours Bachelor's degree in Electrical Engineering with specification of Telecommunications at UNSW in 2024.
+I am a PhD candidate in the school of Electrical Engineering and Telecommunications at the University of New South Wales (UNSW), Sydney, Australia, 
+supervised by A/Prof. [Hassan Habibi Gharakheili](https://www2.ee.unsw.edu.au/~hhabibi/publications.html) and Dr. [Minzhao Lyu](https://minzhaolyu.github.io/). 
+I completed my Bachelor's degree (with Honours) in Electrical Engineering with Telecommunications specialisation at UNSW in 2024.
 
 My current research interests focus on **IoT security and network measurement**, particularly in the areas of IoT traffic analysis.
