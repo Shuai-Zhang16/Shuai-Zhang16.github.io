@@ -922,6 +922,8 @@ pre {
 
   pre,
   code {
+    white-space: pre;
+    word-wrap: normal;
     background-color: transparent;
     border-radius: 0;
     margin-bottom: 0;
